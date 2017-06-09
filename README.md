@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Homepage
 
-You can use the [editor on GitHub](https://github.com/QZhao6123/Website981/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a homepage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A homepage is the main page of the website that pops up when it is loaded up.
 
 ### Markdown
 
@@ -14,7 +14,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
 - Bulleted
 - List
 
